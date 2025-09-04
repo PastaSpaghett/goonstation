@@ -232,7 +232,6 @@ csaber@=c-cutlass
 sword@=cutlass
 katana@=sharp cutlass
 yes@=aye
-ye@=aye
 yup@=aye
 yep@=aye
 you@=ye
