@@ -231,6 +231,7 @@ understood@=aye aye
 csaber@=c-cutlass
 sword@=cutlass
 katana@=sharp cutlass
+y@=aye
 yes@=aye
 yup@=aye
 yep@=aye
